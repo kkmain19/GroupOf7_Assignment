@@ -1,6 +1,7 @@
 # GroupOf7_Assignment
 # Group of 7
 
+> [![ล็อกโลลิค่อน](https://i.imgur.com/00YeDvb.png)](https://goshujin.tk/)
 > ## 1) ชื่อ คุณากร พลรักษา , รหัสนศ. 633021270-3 , Section 3 , username: kkmain19 
 > ## บท GitHub 
 >  The Emperor's New Clothes by Hans Christian Andersen
