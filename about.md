@@ -1,7 +1,7 @@
 # GroupOf7_Assignment
 # Group of 7
 
-> ![ImageKunakron](https://reg.kku.ac.th/registrar/studentphoto.asp?id=633021270-3&sx=24/12/2565)
+> ![ImageKunakron](https://reg.kku.ac.th/registrar/studentphoto.asp?id=633021270-3&sx=24/12/2565](https://drive.google.com/drive/u/0/my-drive)
 > ## 1) ชื่อ คุณากร พลรักษา , รหัสนศ. 633021270-3 , Section 3 , username: kkmain19 
 > ## บท GitHub 
 >  The Emperor's New Clothes by Hans Christian Andersen
