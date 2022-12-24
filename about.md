@@ -17,7 +17,7 @@ clothes manufactured from which should have the wonderful property of remaining 
 everyone who was unfit for the office he held, or who was extraordinarily simple in character.
 
 -----------------------------------------------------------------------------------------------------
-"These must, indeed, be splendid clothes!" thought the Emperor. "Had I such a suit, I might at
+> "These must, indeed, be splendid clothes!" thought the Emperor. "Had I such a suit, I might at
 once find out what men in my realms are unfit for their office, and also be able to distinguish
 the wise from the foolish! This stuff must be woven for me immediately." And he caused large
 sums of money to be given to both the weavers in order that they might begin their work
