@@ -1,8 +1,8 @@
 # GroupOf7_Assignment
 Group of 7
 
-__คุณากร พลรักษา , รหัสนศ. 633021270-3 , Section 3 , username: kkmain19 __ --
-__บท GitHub__ --
+__ ชื่อ คุณากร พลรักษา , รหัสนศ. 633021270-3 , Section 3 , username: kkmain19 __ --
+__ บท GitHub __ --
 The Emperor's New Clothes by Hans Christian Andersen
 Many years ago, there was an Emperor, who was so excessively fond of new clothes, that he
 spent all his money in dress. He did not trouble himself in the least about his soldiers; nor did
