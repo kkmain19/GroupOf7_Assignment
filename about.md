@@ -38,7 +38,6 @@ would prefer sending somebody else, to bring him intelligence about the weavers,
 work, before he troubled himself in the affair. All the people throughout the city had heard of
 the wonderful property the cloth was to possess; and all were anxious to learn how wise, or
 how ignorant, their neighbors might prove to be.
-
 "I will send my faithful old minister to the weavers," said the Emperor at last, after some
 deliberation, "he will be best able to see how the cloth looks; for he is a man of sense, and no
 one can be more suitable for his office than he is."
@@ -47,7 +46,6 @@ one can be more suitable for his office than he is."
 might, at their empty looms. "What can be the meaning of this?" thought the old man, opening
 his eyes very wide. "I cannot discover the least bit of thread on the looms." However, he did not
 express his thoughts aloud.
-
 The impostors requested him very courteously to be so good as to come nearer their looms;
 and then asked him whether the design pleased him, and whether the colors were not very
 beautiful; at the same time pointing to the empty frames. The poor old minister looked and
