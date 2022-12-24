@@ -1,8 +1,7 @@
 # GroupOf7_Assignment
 Group of 7
 
-#คุณากร พลรักษา , รหัสนศ. 633021270-3 , Section 3 , username: kkmain19
-
+คุณากร พลรักษา , รหัสนศ. 633021270-3 , Section 3 , username: kkmain19
 บท GitHub
 The Emperor's New Clothes by Hans Christian Andersen
 Many years ago, there was an Emperor, who was so excessively fond of new clothes, that he
@@ -16,6 +15,7 @@ court. One day, two rogues, calling themselves weavers, made their appearance. T
 that they knew how to weave stuffs of the most beautiful colors and elaborate patterns, the
 clothes manufactured from which should have the wonderful property of remaining invisible to
 everyone who was unfit for the office he held, or who was extraordinarily simple in character.
+
 -----------------------------------------------------------------------------------------------------
 "These must, indeed, be splendid clothes!" thought the Emperor. "Had I such a suit, I might at
 once find out what men in my realms are unfit for their office, and also be able to distinguish
