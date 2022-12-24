@@ -1,5 +1,5 @@
 # GroupOf7_Assignment
-#Group of 7
+# Group of 7
 
 > ## ชื่อ คุณากร พลรักษา , รหัสนศ. 633021270-3 , Section 3 , username:kkmain19 
 > ## บท GitHub 
