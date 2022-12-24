@@ -1,7 +1,7 @@
 # GroupOf7_Assignment
 # Group of 7
 
-> ## ชื่อ คุณากร พลรักษา , รหัสนศ. 633021270-3 , Section 3 , username:kkmain19 
+> ## 1) ชื่อ คุณากร พลรักษา , รหัสนศ. 633021270-3 , Section 3 , username: kkmain19 
 > ## บท GitHub 
   The Emperor's New Clothes by Hans Christian Andersen
 Many years ago, there was an Emperor, who was so excessively fond of new clothes, that he
