@@ -67,6 +67,7 @@ the stuff pleases you."
 "Oh, it is excellent!" replied the old minister, looking at the loom through his spectacles. "This
 pattern, and the colors, yes, I will tell the Emperor without delay, how very beautiful I think
 them."
+
 >"We shall be much obliged to you," said the impostors, and then they named the different
 colors and described the pattern of the pretended stuff. The old minister listened attentively to
 their words, in order that he might repeat them to the Emperor; and then the knaves asked for
