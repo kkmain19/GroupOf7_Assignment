@@ -80,9 +80,9 @@ with the minister; he surveyed the looms on all sides, but could see nothing at 
 frames.
 -------------------------------------------------------------------------------------------------------------------------------
 ## 4) ชื่อ พัทธนันท์ หินเธาว์  , รหัสนศ. 633021292-3 , Section 3 , username: phatthanantong
-[!Imagephatthanan](../Lab4/phatthanan.jpg?raw=true
+>![Imagephatthanan](../Lab4/phatthanan.jpg?raw=true
 ## บทGithub
-"Does not the stuff appear as beautiful to you, as it did to my lord the minister?" asked the
+>"Does not the stuff appear as beautiful to you, as it did to my lord the minister?" asked the
 impostors of the Emperor's second ambassador; at the same time making the same gestures as
 before, and talking of the design and colors which were not there.
 "I certainly am not stupid!" thought the messenger. "It must be, that I am not fit for my good,
@@ -90,8 +90,8 @@ profitable office! That is very odd; however, no one shall know anything about i
 accordingly he praised the stuff he could not see, and declared that he was delighted with both
 colors and patterns. "Indeed, please your Imperial Majesty," said he to his sovereign when he
 returned, "the cloth which the weavers are preparing is extraordinarily magnificent."
--------------------------------------------------------------------------------------------------------------------------------
-The whole city was talking of the splendid cloth which the Emperor had ordered to be woven at
+
+>The whole city was talking of the splendid cloth which the Emperor had ordered to be woven at
 his own expense.
 And now the Emperor himself wished to see the costly manufacture, while it was still in the
 loom. Accompanied by a select number of officers of the court, among whom were the two
