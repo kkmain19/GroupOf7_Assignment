@@ -27,7 +27,7 @@ reality they did nothing at all. They asked for the most delicate silk and the p
 put both into their own knapsacks; and then continued their pretended work at the empty
 looms until late at night.
 -----------------------------------------------------------------------------------------------------
-## 2) ชื่อ พรรณนิภา ทำมาล  , รหัสนศ. 633021290-7 , Section 3 , username: PannipaZa 
+> ## 2) ชื่อ พรรณนิภา ทำมาล  , รหัสนศ. 633021290-7 , Section 3 , username: PannipaZa 
 > ![ImagePannipa](../Lab4/Nam.jpg?raw=true)
 > ## บท GitHub 
 >  "I should like to know how the weavers are getting on with my cloth," said the Emperor to
@@ -59,7 +59,7 @@ the stuff pleases you."
 pattern, and the colors, yes, I will tell the Emperor without delay, how very beautiful I think
 them."
 -------------------------------------------------------------------------------------------------------------------------------
-## 3) ชื่อ อวิรุทธิ์ ทำมาล  , รหัสนศ. 633021168-4 , Section 3 , username: Awirutth
+> ## 3) ชื่อ อวิรุทธิ์ ทำมาล  , รหัสนศ. 633021168-4 , Section 3 , username: Awirutth
 > ![ImageAwirut](../awirut/awirut.jpg?raw=true)
 > ## บท GitHub
 > "Well, Sir Minister!" said one of the knaves, still pretending to work. "You do not say whether
@@ -79,7 +79,7 @@ ascertain whether the cloth would soon be ready. It was just the same with this 
 with the minister; he surveyed the looms on all sides, but could see nothing at all but the empty
 frames.
 -------------------------------------------------------------------------------------------------------------------------------
-## 4) ชื่อ พัทธนันท์ หินเธาว์  , รหัสนศ. 633021292-3 , Section 3 , username: phatthanantong
+> ## 4) ชื่อ พัทธนันท์ หินเธาว์  , รหัสนศ. 633021292-3 , Section 3 , username: phatthanantong
 > ![ImagePhatthanan](../phatthananhin/tt.jpg?raw=true)
 > ## บทGithub
 >"Does not the stuff appear as beautiful to you, as it did to my lord the minister?" asked the
@@ -99,3 +99,24 @@ honest men who had already admired the cloth, he went to the crafty impostors, w
 as they were aware of the Emperor's approach, went on working more diligently than ever;
 although they still did not pass a single thread through the looms.
 ------------------------------------------------------------------------------------------
+> ## 5) ชื่อ วริศรา ไวยโภชน์ , รหัสนศ. 633021159-5 , Section 3 , username:WARITSARA123
+> ![ImageWaritsara](../warisara/ww.jpg?raw=true)
+> ## บท GitHub 
+>  "Is not the work absolutely magnificent?" said the two officers of the crown, already
+mentioned. "If your Majesty will only be pleased to look at it! What a splendid design! What
+glorious colors!" and at the same time they pointed to the empty frames; for they imagined
+that everyone else could see this exquisite piece of workmanship.
+
+> "How is this?" said the Emperor to himself. "I can see nothing! This is indeed a terrible affair!
+Am I a simpleton, or am I unfit to be an Emperor? That would be the worst thing that could
+happen--Oh! the cloth is charming," said he, aloud. "It has my complete approbation." And he
+smiled most graciously, and looked closely at the empty looms; for on no account would he say
+that he could not see what two of the officers of his court had praised so much. All his retinue
+now strained their eyes, hoping to discover something on the looms, but they could see no
+more than the others; nevertheless, they all exclaimed, "Oh, how beautiful!" and advised his
+majesty to have some new clothes made from this splendid material, for the approaching
+procession. "Magnificent! Charming! Excellent!" resounded on all sides; and everyone was
+uncommonly gay. The Emperor shared in the general satisfaction; and presented the impostors
+with the riband of an order of knighthood, to be worn in their button-holes, and the title of
+"Gentlemen Weavers."
+-------------------------------------------------------------------------------------------------------------------------------
