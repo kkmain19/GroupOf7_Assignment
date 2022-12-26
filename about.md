@@ -121,7 +121,7 @@ with the riband of an order of knighthood, to be worn in their button-holes, and
 "Gentlemen Weavers."
 -------------------------------------------------------------------------------------------------------------------------------
 > ## 6) ชื่อ รัชกาล พรมทา, รหัสนศ. 633021155-3 , Section 3 , username:raschakan
-> ![ImageWaritsara](../raschakan/ss.jpg?raw=true)
+> ![ImageRaschakan](../raschakan/ss.jpg?raw=true)
 > ## บท GitHub 
 >  The rogues sat up the whole of the night before the day on which the procession was to take
 place, and had sixteen lights burning, so that everyone might see how anxious they were to
@@ -143,6 +143,6 @@ the Emperor turning round, from side to side, before the looking glass.
 "How splendid his Majesty looks in his new clothes, and how well they fit!" everyone cried out.
 "What a design! What colors! These are indeed royal robes!"
 
-"The canopy which is to be borne over your Majesty, in the procession, is waiting," announced
+> "The canopy which is to be borne over your Majesty, in the procession, is waiting," announced
 the chief master of the ceremonies.
 -------------------------------------------------------------------------------------------------------------------------------
